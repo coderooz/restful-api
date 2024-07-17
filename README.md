@@ -69,7 +69,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ### Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/your-username)
+- **Ranit Saha** - [Coderooz](https://github.com/coderooz)
 
 ### License
 
