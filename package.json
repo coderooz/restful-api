@@ -14,7 +14,7 @@
   "author": "Coderooz[Ranit Saha]",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.20.2",
+    "body-parser": "^1.20.3",
     "express": "^4.19.2"
   }
 }
